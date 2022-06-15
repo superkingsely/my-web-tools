@@ -1,0 +1,39 @@
+
+		.link{
+			color: green;
+			font-size:15px;
+			font-style: italic;
+		}
+
+		#titleHeading{
+			font-size:30px;
+			text-transform:uppercase;
+			color:brown;
+		}
+
+		h2{
+			color:red;
+			font-size: 24px;
+			text-transform:capitalize;
+		}
+
+		h3{
+			color:blue;
+			font-size: 18px;
+		}
+
+
+
+		p::first-letter{
+		font-size:35px;
+		color:red;
+		font-style:italic;
+		}
+
+		.ol-state{
+			list-style-type:lower-alpha;
+		}
+
+		.ul-state{
+			list-style-type: square;
+		}
